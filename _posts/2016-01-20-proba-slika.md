@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Proba slike
+title: "Proba slike"
 description: "Neki opis123."
 tags: [tag1, tag2]
 image:
